@@ -1,0 +1,13 @@
+[
+    {
+        "SNo":"11",
+        "Name": "DR-C130",
+        "Description": "Speed, performance and ease-of-use in a streamlined design",
+        "Features": "User-friendly and versatile, the Canon DR-C130 delivers exceptional scanning capability. Smart but simple features make it easy to use while its slim, compact design means it can fit virtuallyanywhere – at home or in the office.",
+        "Specification": [
+            "Speed: up to 30ppm / 60ipm (2-sided)",
+            "Scan size: up to A4"
+        ],
+        "Image": "assets/img/docScan/11.png"
+    }
+]

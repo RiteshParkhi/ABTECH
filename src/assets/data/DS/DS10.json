@@ -1,0 +1,14 @@
+[
+    {
+        "SNo":"10",
+        "Name": "DR-G1100 / 1130",
+        "Description": "Productivity meets velocity",
+        "Features": "DR-G1100 / 1130 is a production scanner that delivers high-speed scanning without compromising on reliability or quality. Whether on its own or as a complement to your document management system, the DR-G1100 / 1130 will be a welcome addition to your office.",
+        "Specification": [
+            "Connects with USB 2.0",
+            "Speed:DR-G1130: up to 130ppm / 260ipm (landscape), DR-G1100: up to 100ppm / 200ipm (landscape)",
+            "Scan size: up to A3"
+        ],
+        "Image": "assets/img/docScan/10.png"
+    }
+]

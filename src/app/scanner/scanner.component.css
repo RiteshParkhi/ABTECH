@@ -1,0 +1,69 @@
+.card{
+    background-image: -webkit-linear-gradient(0deg,#babbbd 0%,  #ffffff 100%);
+    color:black;
+    overflow-y: auto;
+}
+
+.jumbotron-fluid{
+    padding-top:40px;
+    padding-bottom:40px;
+}
+
+.card-feature{
+    color:black;
+    font-size:16px;
+    margin-top: 64px;
+}
+.text-black{
+    color:black;
+}
+li:before
+{
+    content: '✔';   
+    margin-left: -1em;
+    margin-right: .100em;
+}
+
+ul
+{
+   padding-left: 20px;
+   text-indent: 2px;
+   list-style: none;
+   list-style-position: outside;
+}
+.card-body{
+    position: relative;
+}
+
+.card-body a {
+    position: absolute;
+    bottom: 10px;
+    }
+
+    .single-feature .primary-btn:hover span {
+        background: -webkit-linear-gradient(0deg, #fff, #fff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      .single-feature .primary-btn span {
+        background: -webkit-linear-gradient(0deg, #3e69fe, #4cd4e3);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      .single-feature {
+        margin-top: 30px;
+        box-shadow: 0px 15px 50px 0px rgba(0, 0, 0, 0.1);
+        background-image: -webkit-linear-gradient(0deg,#babbbd 0%,  #ffffff 100%);
+      }
+
+      .single-feature .primary-btn {
+        border: 1px solid #eee;
+      }
+      
+      .single-feature .primary-btn:hover {
+        border: 1px solid transparent;
+      }
+
+      .primary-btn:after {
+        background-image: -webkit-linear-gradient(0deg, #3e69fe 0%, #4cd4e3 100%)!important;
+    } 

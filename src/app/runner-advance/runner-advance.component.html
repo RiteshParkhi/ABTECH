@@ -1,0 +1,56 @@
+<div class="main-wrapper">
+  <section class="featured-area">
+    <div class="container">
+      <h3 class="productCategory">imageRunner Advance Products</h3>
+      <div class="row">
+        <div class="col-sm-4 col-md-4" *ngFor="let row of productData;">
+          <div class="single-feature">
+            <div class="card align-items-center card-height">
+              <img class="card-img-top img-fluid card-image" src="{{row.Image}}" alt="Card image cap">
+              <div class="card-body">
+                <h5 class="card-title">{{row.Name}}</h5>
+                <p class="card-text">{{row.Description}}</p>
+                <a class="primary-btn" (click)="loadSpec(row.SNo)">
+                  <span>Full Specifications</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="modalOne" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content" *ngIf="productSpecification && productSpecification">
+      <div class="modal-body">
+          <button type="button" class="close" aria-label="Close" data-dismiss="modal">
+              <span aria-hidden="true">&times;</span>
+            </button>
+        <div class="jumbotron jumbotron-fluid">
+          <div class="container">
+            <h3 text-center>{{productSpecification.Name}}</h3>
+            <div class="row">
+              <div class="col-md-6 col-sm-6">
+
+                <p class="card-feature">{{productSpecification.Features}}</p>
+              </div>
+              <div class="col-md-6 col-sm-6">
+                <img text-center class="img-fluid" src="{{productSpecification.Image}}" alt="Card image cap">
+              </div>
+            </div>
+            <h4>Specifications</h4>
+            <hr class="my-2">
+            <ul class="text-black" *ngFor="let row of productSpecification.Specification;">
+              <li>{{row}}</li>
+            </ul>
+          </div>
+        </div>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

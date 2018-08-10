@@ -1,0 +1,14 @@
+[
+    {
+        "SNo":"12",
+        "Name": "DR-M140",
+        "Description": "Versatile scanning in an ultra-compact package",
+        "Features": "DR-M140 is designed for maximum accessibility and flexibility to scan diverse documents.",
+        
+        "Image": "assets/img/docScan/11.png",
+        "Specification": [
+            "Scan size: A4 & Legal size",
+            "Speed: 40ppm / 80ipm, 2-sided"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "SNo": "7",
+        "Name": "ImageRUNNER ADVANCE C5500i",
+        "Description": "New flagship colour series boosting intelligent features",
+        "Features": "The first colour series from the new generation, the imageRUNNER ADVANCE C5500i series redefines how multifunction device works. With speeds up to 60ppm, enjoy enhanced productivity through intelligent document workflow and personalisation.",
+        "Specification": [
+            "User personalisation with My ADVANCE",
+            "Multi-sheet feed detection and Skip Blank Page",
+            "Intelligent Recovery with motion sensors",
+            "Staple-on Demand & Eco staple options"
+        ],
+        "Image": "assets/img/imgRnrAdv/7.png"
+    }
+]

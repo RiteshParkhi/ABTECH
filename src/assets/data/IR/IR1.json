@@ -1,0 +1,16 @@
+[
+    {
+        "SNo": "1",
+        "Name": "imageRUNNER C3020 NEW!",
+        "Description": "Quality meets simplicity in new imageRUNNER colour device",
+        "Features": "Designed with simplicity in mind, the imageRUNNER C3020 serves to provide greater work productivity and security to users' daily workflow by making operations an ease. With V2 colour technology, standard Wi-Fi and Direct Access Point, enjoy quality colour printouts with seamless connection.",
+        "Specification": [
+                " Speed- 20ppm",
+                " 5 inch touch panel",
+                " V2 colour technology",
+                "Secure print",
+                "Department ID"
+        ],
+        "Image": "assets/img/imgRnr/1.png"
+    }
+]

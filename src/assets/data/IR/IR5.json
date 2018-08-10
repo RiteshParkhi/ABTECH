@@ -1,0 +1,18 @@
+[
+    {
+        "SNo": "5",
+        "Name": "imageRUNNER 2500W series",
+        "Description": "The compact device that is built for productivity",
+        "Features": "The imageRUNNER 2500W series offers a compact suite of workgroup functionalities. From network printing to built-in duplex, this multi-functional device is your choice for reliable, professional documents.",
+        "Specification": [
+            "Multi-function network device: copy, print, colour scan",
+            "Standard duplex printing and support for USB print and scan",
+            " Output speed:imageRUNNER 2520W: 20ppm",
+            " imageRUNNER 2525W: 25ppm",
+            " imageRUNNER 2530W: 30ppm",
+            " imageRUNNER 2535W: 35ppm",
+            " imageRUNNER 2540W: 40ppm"
+        ],
+        "Image": "assets/img/imgRnr/5.png"
+    }
+]

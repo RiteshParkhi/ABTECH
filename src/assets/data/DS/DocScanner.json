@@ -1,0 +1,106 @@
+[
+    {
+        "SNo":"1",
+        "Name": "DR-C225",
+        "Description": "Maximize desk space with the slim & smart compact scanner",
+        "Features": "Built compact without comprising speed or quality with a minimalist design achieved through the elimination of obstructive tray extensions.",
+        
+        "Image": "assets/img/docScan/1.png"
+    },
+    {
+        "SNo":"2",
+        "Name": "DR-C225 / 225W",
+        "Description": "Maximize desk space with the slim & smart compact scanner",
+        "Features": "Built compact without comprising speed or quality with a minimalist design achieved through the elimination of obstructive tray extensions.",
+        
+        "Image": "assets/img/docScan/2.png"
+    },
+    {
+        "SNo":"3",
+        "Name": "DR-C240",
+        "Description": "Handles a wide variety of documents and efficient flexible scanning solution.",
+        "Features": "The DR-C240 is a high-speed scanning solution with a feeder which can hold up to 60 sheet of paper. Can load different sizes and process various type of documents, including thin paper, postcards, and even passports.",
+        
+        "Image": "assets/img/docScan/3.png"
+    },
+    {
+        "SNo":"4",
+        "Name": "DR-F120",
+        "Description": "Where versatility & quality converge",
+        "Features": "DR-F120 is a highly productive document scanner that supports a variety of paper types.",
+        
+        "Image": "assets/img/docScan/4.png"
+    },
+    {
+        "SNo":"5",
+        "Name": "DR-M1060",
+        "Description": "Ultra-compact A3 scanner offering reliable and versatile performance.",
+        "Features": "The DR-M1060 document scanner is built to handle high-speed scanning with U-turn and straight paper path.",
+        
+        "Image": "assets/img/docScan/5.png"
+    },
+    {
+        "SNo":"6",
+        "Name": "DR-M160II",
+        "Description": "Built tough for super-fast, reliable scanning",
+        "Features": "DR-M160II offers superb accuracy with a precise feeding mechanism capable of handling variety of documents.",
+        
+        "Image": "assets/img/docScan/6.png"
+    },
+    {
+        "SNo":"7",
+        "Name": "imageFORMULA P-201",
+        "Description": "My Personal Scanner Convenience & Comfort Scanning anytime anywhere",
+        "Features": "The P-201 is a portable scanner for scanning on the go of important documents just a plug away. It works with USB Power and extremely light weight delivering true balance between portability and functionality.",
+        
+        "Image": "assets/img/docScan/7.png"
+    },
+    {
+        "SNo":"8",
+        "Name": "imageFORMULA P-215II",
+        "Description": "Portability like no other",
+        "Features": "The stylish and portable imageFORMULA P-215II has convenient USB power and plug-and-scan capabilities to deliver high-resolution outputs in black & white, grayscale or colour up to 600dpi for great scans on the go.",
+        
+        "Image": "assets/img/docScan/8.png"
+    },
+    {
+        "SNo":"9",
+        "Name": "DR 6030C",
+        "Description": "Designed to perform with remarkable speed and precision",
+        "Features": "Compact in size, but delivering the best, the DR 6030C is the latest innovation in scanning; featuring the newly developed 3-line CMOS sensor system for astounding speed and quality you can rely on.",
+        
+        "Image": "assets/img/docScan/9.png"
+    },
+    {
+        "SNo":"10",
+        "Name": "DR-G1100 / 1130",
+        "Description": "Productivity meets velocity",
+        "Features": "DR-G1100 / 1130 is a production scanner that delivers high-speed scanning without compromising on reliability or quality. Whether on its own or as a complement to your document management system, the DR-G1100 / 1130 will be a welcome addition to your office.",
+        
+        "Image": "assets/img/docScan/10.png"
+    },
+    {
+        "SNo":"11",
+        "Name": "DR-C130",
+        "Description": "Speed, performance and ease-of-use in a streamlined design",
+        "Features": "User-friendly and versatile, the Canon DR-C130 delivers exceptional scanning capability. Smart but simple features make it easy to use while its slim, compact design means it can fit virtuallyanywhere – at home or in the office.",
+        
+        "Image": "assets/img/docScan/11.png"
+    },
+    {
+        "SNo":"12",
+        "Name": "DR-M140",
+        "Description": "Versatile scanning in an ultra-compact package",
+        "Features": "DR-M140 is designed for maximum accessibility and flexibility to scan diverse documents.",
+        
+        "Image": "assets/img/docScan/11.png"
+    },
+    {
+        "SNo":"13",
+        "Name": "DR-X160",
+        "Description": "From 0-100 pages in 1 minute, it's document scanning ahead of its time",
+        "Features": "With superb quality and speed, the 500-sheet DR X10C features Canon’s high-precision roller and page separation systems for reliable batch scanning, so you get both quantity and quality in one device.",
+        
+        "Image": "assets/img/docScan/11.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "SNo":"3",
+        "Name": "DR-C240",
+        "Description": "Handles a wide variety of documents and efficient flexible scanning solution.",
+        "Features": "The DR-C240 is a high-speed scanning solution with a feeder which can hold up to 60 sheet of paper. Can load different sizes and process various type of documents, including thin paper, postcards, and even passports.",
+        "Specification": [
+            "Seamlessly capture and convert large amount of documents",
+            "Start, stop and resume scanning operations",
+            "Supports A4, A3 and A2 sizes"
+        ],
+        "Image": "assets/img/docScan/3.png"
+    }
+]

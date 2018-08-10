@@ -1,0 +1,14 @@
+[
+    {
+        "SNo": "13",
+        "Name": "DR-X160",
+        "Description": "From 0-100 pages in 1 minute, it's document scanning ahead of its time",
+        "Features": "With superb quality and speed, the 500-sheet DR X10C features Canon’s high-precision roller and page separation systems for reliable batch scanning, so you get both quantity and quality in one device.",
+        "Image": "assets/img/docScan/11.png",
+        "Specification": [
+            "40ppm / 80ipm, 2-sided",
+            "Scan size: up to A3",
+            "Speed: up to 130ppm / 260ipm (landscape)"
+        ]
+    }
+]

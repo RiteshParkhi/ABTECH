@@ -1,0 +1,13 @@
+[
+    {
+        "SNo":"9",
+        "Name": "DR 6030C",
+        "Description": "Designed to perform with remarkable speed and precision",
+        "Features": "Compact in size, but delivering the best, the DR 6030C is the latest innovation in scanning; featuring the newly developed 3-line CMOS sensor system for astounding speed and quality you can rely on.",
+        "Specification": [
+                "Scan size: up to A3",
+                "Speed: up to 60ppm, 2-sided"
+        ],
+        "Image": "assets/img/docScan/9.png"
+    }
+]

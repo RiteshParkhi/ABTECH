@@ -1,0 +1,14 @@
+[
+    {
+        "SNo":"6",
+        "Name": "DR-M160II",
+        "Description": "Built tough for super-fast, reliable scanning",
+        "Features": "DR-M160II offers superb accuracy with a precise feeding mechanism capable of handling variety of documents.",
+        "Specification": [
+            "Scan size: A4 & Legal size",
+            "Speed: up to 60ppm / 120ipm (2-sided)",
+            "Background smoothing function"
+        ],
+        "Image": "assets/img/docScan/6.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "SNo":"8",
+        "Name": "imageFORMULA P-215II",
+        "Description": "Portability like no other",
+        "Features": "The stylish and portable imageFORMULA P-215II has convenient USB power and plug-and-scan capabilities to deliver high-resolution outputs in black & white, grayscale or colour up to 600dpi for great scans on the go.",
+        "Specification": [
+             "Scan size: up to A4",
+             "Connect with USB 2.0 or USB 3.0",
+             "Speed: up to 15ppm / 30ipm"
+        ],
+        "Image": "assets/img/docScan/8.png"
+    }
+]

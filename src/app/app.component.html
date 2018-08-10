@@ -1,0 +1,72 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="hero-area  bgcolor-area">
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top">
+    <a class="navbar-brand logoText" routerLink="/home">ABTECH</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link nav-text" routerLink="/home">Home
+            <span class="sr-only">(current)</span>
+          </a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle nav-text" data-toggle="dropdown" href="nothing">Products</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" routerLink="/imageRunnerAdv">imageRUNNER ADVANCE</a>
+            <a class="dropdown-item" routerLink="/imageRunner">imageRUNNER</a>
+            <a class="dropdown-item" routerLink="/docScanner">Document Scanner</a>
+          </div>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link nav-text" routerLink="/newsEvents">News and Events</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link nav-text" routerLink="/contactUs">Contact Us</a>
+        </li>
+      </ul>
+      <ul>
+        <li class="nav-item">
+            <a class="nav-brand contactUs" href="do-nothing"><i class="fa fa-phone" aria-hidden="true">
+
+            </i> +91 9300 309 405 </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</div>
+<router-outlet></router-outlet>
+<!-- Start Footer Widget Area -->
+<section class="footer-widget-area">
+  <footer>
+    <div class="container">
+      <div class="footer-content d-flex justify-content-between align-items-center flex-wrap">
+        <div class="logo">
+          <h2 class="company">ABTECH</h2>
+        </div>
+        <div class="copy-right-text">Copyright &copy; 2018 | All rights reserved to
+          <a style="color:yellow" href="#">ABTECH</a> Designed by
+          <a href="#" target="_blank" style="color:yellow">Parkhi Tech Solutions Pvt. Ltd.</a>
+        </div>
+        <!-- <div class="footer-social">
+          <a href="#">
+            <i class="fa fa-facebook"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-twitter"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-dribbble"></i>
+          </a>
+          <a href="#">
+            <i class="fa fa-behance"></i>
+          </a>
+        </div> -->
+      </div>
+    </div>
+  </footer>
+</section>
+<!-- End Footer Widget Area -->

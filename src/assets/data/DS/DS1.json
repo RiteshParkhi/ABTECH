@@ -1,0 +1,14 @@
+[
+    {
+        "SNo":"1",
+        "Name": "DR-C225",
+        "Description": "Maximize desk space with the slim & smart compact scanner",
+        "Features": "Built compact without comprising speed or quality with a minimalist design achieved through the elimination of obstructive tray extensions.",
+        "Specification": [
+                " Scan upto A4",
+                " Speed: up to 25ppm / 50ipm (2-sided)",
+                " Full Auto Mode"
+        ],
+        "Image": "assets/img/docScan/1.png"
+    }
+]

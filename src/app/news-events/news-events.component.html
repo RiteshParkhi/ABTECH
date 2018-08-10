@@ -1,0 +1,24 @@
+<div class="main-wrapper">
+  <section class="featured-area">
+    <div class="container">
+      <h3 class="productCategory">Latest News from Canon</h3>
+      <div class="single-feature">
+        <div class="row">
+          <div class="offset-sm-2 col-sm-8 offset-md-2 col-md-8">
+            <div class="thumb" style="background: url(assets/img/event1.png);"></div>
+          </div>
+        </div>
+        <br>
+        <div class="row justify-content-center news-text" *ngFor="let row of newsData;">
+          <div class="col-2">
+            <p>{{row.Date}}</p>
+          </div>
+          <div class="col-8">
+            <a href="http://www.canon.co.in/business/news?languageCode=EN">
+              {{row.Description}}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

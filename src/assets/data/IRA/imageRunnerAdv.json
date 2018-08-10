@@ -1,0 +1,90 @@
+[
+    {
+        "SNo":"1",
+        "Name": "ImageRUNNER ADVANCE 4500 NEW!",
+        "Description": "Robust A3 monochrome device with ADVANCED features",
+        "Features": "Suitable for both medium and large enterprises, the imageRUNNER ADVANCE (iR-ADV) 4500 delivers consistent and reliable performance in a compact, space-saving design. With its intelligent features and customisable options, the iR-ADV 4500 is the solution to your business needs.",
+        
+        "Image": "assets/img/imgRnrAdv/1.png"
+    },
+    {
+        "SNo":"2",
+        "Name": "ImageRUNNER ADVANCE 6500i Series NEW!",
+        "Description": "Intuitive design with personalised experience",
+        "Features": "Designed for advanced functionality, high reliability and ease of operation, the imageRUNNER ADVANCE 6500i series offers personalisation and other intelligent features necessary to meet the needs of diverse environments as well as workflow requirements of individual users.",
+        
+        "Image": "assets/img/imgRnrAdv/2.png"
+    },
+    {
+        "SNo":"3",
+        "Name": "ImageRUNNER ADVANCE 6555i NEW!",
+        "Description": "Intuitive design with personalised experience",
+        "Features": "Designed for advanced functionality, high reliability and ease of operation, the imageRUNNER ADVANCE 6555i offers personalisation and other intelligent features necessary to meet the needs of diverse environments as well as workflow.",
+        
+        "Image": "assets/img/imgRnrAdv/3.png"
+    },
+    {
+        "SNo":"4",
+        "Name": "ImageRUNNER ADVANCE 6575i NEW!",
+        "Description": "Intuitive design with personalised experience",
+        "Features": "Designed for advanced functionality, high reliability and ease of operation, the imageRUNNER ADVANCE 6575i offers personalisation and other intelligent features necessary to meet the needs of diverse environments as well as workflow requirements of individual users.",
+        
+        "Image": "assets/img/imgRnrAdv/4.png"
+    },
+    {
+        "SNo":"5",
+        "Name": "ImageRUNNER ADVANCE C3500 NEW!",
+        "Description": "Perfect for offices that optimise workflow with quality colour prints",
+        "Features": "Designed for small and medium workgroups or enterprises, the imageRUNNER ADVANCE (iR-ADV) C3500 is compact in size but big in features. Designed with intuitiveness, connectivity and quality colour prints, the iR-ADV C3500 delivers optimal performance for your workplace.",
+        
+        "Image": "assets/img/imgRnrAdv/5.png"
+    },
+    {
+        "SNo":"6",
+        "Name": "ImageRUNNER ADVANCE C355i Series NEW!",
+        "Description": "Intuitive design with personalised experience",
+        "Features": "First A4 Generation 3 device, the imageRUNNER ADVANCE (iR-ADV) C355i provides exceptional user experience for customers without compromising on its functionality. Meant to meet the needs of small medium businesses, the iR-ADV C355i comes with many intelligent features that enables workflow optimisation.",
+        
+        "Image": "assets/img/imgRnrAdv/6.png"
+    },
+    {
+        "SNo":"7",
+        "Name": "ImageRUNNER ADVANCE C5500i",
+        "Description": "New flagship colour series boosting intelligent features",
+        "Features": "The first colour series from the new generation, the imageRUNNER ADVANCE C5500i series redefines how multifunction device works. With speeds up to 60ppm, enjoy enhanced productivity through intelligent document workflow and personalisation.",
+        
+        "Image": "assets/img/imgRnrAdv/7.png"
+    },
+    {
+        "SNo":"8",
+        "Name": "ImageRUNNER ADVANCE 4225",
+        "Description": "Enhanced reliability and productivity",
+        "Features": "Enhance document workflow, secure confidential information and reduce impact on the environment. The imageRUNNER ADVANCE 4225 is an intelligent monochrome multifunctional device that lets businesses do all that and more.",
+        
+        "Image": "assets/img/imgRnrAdv/8.png"
+    },
+    {
+        "SNo":"9",
+        "Name": "ImageRUNNER ADVANCE 4235",
+        "Description": "Enhanced reliability and productivity",
+        "Features": "Enhance document workflow, secure confidential information and reduce impact on the environment. The imageRUNNER ADVANCE 4235 is an intelligent monochrome multifunctional device that lets businesses do all that and more.",
+        
+        "Image": "assets/img/imgRnrAdv/9.png"
+    },
+    {
+        "SNo":"10",
+        "Name": "ImageRUNNER ADVANCE 4245",
+        "Description": "Enhanced reliability and productivity",
+        "Features": "Enhance document workflow, secure confidential information and reduce impact on the environment. The imageRUNNER ADVANCE 4245 is an intelligent monochrome multifunctional device that lets businesses do all that and more.",
+        
+        "Image": "assets/img/imgRnrAdv/10.png"
+    },
+    {
+        "SNo":"11",
+        "Name": "ImageRUNNER ADVANCE 4251",
+        "Description": "Delight your expectations with reliability and productivity!",
+        "Features": "Enhance document workflow, secure confidential information and reduce impact on the environment. The imageRUNNER ADVANCE 4251 is an intelligent monochrome multifunctional device that lets businesses do all that and more.",
+        
+        "Image": "assets/img/imgRnrAdv/11.png"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"5",
+        "Name": "DR-M1060",
+        "Description": "Ultra-compact A3 scanner offering reliable and versatile performance.",
+        "Features": "The DR-M1060 document scanner is built to handle high-speed scanning with U-turn and straight paper path.",
+        "Specification": [ 
+            "Scan size: up to A3",
+            "Speed: up to 60ppm / 120ipm (2-sided) A4R",
+            "Background smoothing function"
+            
+        ],
+        "Image": "assets/img/docScan/5.png"
+    }
+]

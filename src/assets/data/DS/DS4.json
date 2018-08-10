@@ -1,0 +1,15 @@
+[
+    {
+        "SNo":"4",
+        "Name": "DR-F120",
+        "Description": "Where versatility & quality converge",
+        "Features": "DR-F120 is a highly productive document scanner that supports a variety of paper types.",
+        "Specification": [
+            "Connect with USB 2.0",
+            "Scan size: up to A4(ADF), Legal size (Flatbed)",
+            "Speed: up to 20ppm / 36ipm",
+            "Full Auto Mode"
+        ],
+        "Image": "assets/img/docScan/4.png"
+    }
+]

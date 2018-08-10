@@ -1,0 +1,42 @@
+[
+    {
+        "Type": "Colour imageRUNNER",
+        "SNo": "1",
+        "Name": "imageRUNNER C3020 NEW!",
+        "Description": "Quality meets simplicity in new imageRUNNER colour device",
+        "Features": "Designed with simplicity in mind, the imageRUNNER C3020 serves to provide greater work productivity and security to users' daily workflow by making operations an ease. With V2 colour technology, standard Wi-Fi and Direct Access Point, enjoy quality colour printouts with seamless connection.",
+        "Image": "assets/img/imgRnr/1.png"
+    },
+    {
+        "Type": "A4 imageRUNNER",
+        "SNo": "2",
+        "Name": "imageRUNNER 1435",
+        "Description": "Feature-rich additions for your workplace",
+        "Features": "The new A4 monochrome imageRUNNER 1435 is designed with efficiency and usability in mind. Boosting a print speed of 35ppm, the device also comes with a wide range of functions designed to provide an enhanced experience.",
+        "Image": "assets/img/imgRnr/2.png"
+    },
+    {
+        "Type": "A4 imageRUNNER",
+        "SNo": "3",
+        "Name": "imageRUNNER 1435iF",
+        "Description": "Feature-rich additions for your workplace",
+        "Features": "The new A4 monochrome imageRUNNER 1435iF is designed with efficiency and usability in mind. Boosting a print speed of 35ppm, the device also comes with a wide range of functions designed to provide an enhanced experience.",
+        "Image": "assets/img/imgRnr/3.png"
+    },
+    {
+        "Type": "A3 black & white imageRUNNER",
+        "SNo": "4",
+        "Name": "imageRUNNER 2204N / 2004N / 2004",
+        "Description": "Enhance productivity with simplicity",
+        "Features": "Designed to meet the needs of small, medium business, the imageRUNNER 2204N / 2004N / 2004 series offers a compact suite of workgroup functionalities. From basic functionalities like copy, print and scan to office connectivity functions such as mobile printing*, the series will fit right into the modern office environment.",
+        "Image": "assets/img/imgRnr/4.png"
+    },
+    {
+        "Type": "A3 black & white imageRUNNER",
+        "SNo": "5",
+        "Name": "imageRUNNER 2500W series",
+        "Description": "The compact device that is built for productivity",
+        "Features": "The imageRUNNER 2500W series offers a compact suite of workgroup functionalities. From network printing to built-in duplex, this multi-functional device is your choice for reliable, professional documents.",
+        "Image": "assets/img/imgRnr/5.png"
+    }
+]

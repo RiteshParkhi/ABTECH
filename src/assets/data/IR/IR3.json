@@ -1,0 +1,17 @@
+[
+    {
+        "SNo": "3",
+        "Name": "imageRUNNER 1435iF",
+        "Description": "Feature-rich additions for your workplace",
+        "Features": "The new A4 monochrome imageRUNNER 1435iF is designed with efficiency and usability in mind. Boosting a print speed of 35ppm, the device also comes with a wide range of functions designed to provide an enhanced experience.",
+        "Specification": [
+            " Speed- 35ppm",
+            " Copy / Print / Colour Pull Scan",
+            " Send / Fax",
+            " ID Card copy",
+            "Searchable / Compact PDF",
+            "Department ID"
+        ],
+        "Image": "assets/img/imgRnr/3.png"
+    }
+]

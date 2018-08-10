@@ -1,0 +1,14 @@
+[
+    {
+        "SNo":"7",
+        "Name": "imageFORMULA P-201",
+        "Description": "My Personal Scanner Convenience & Comfort Scanning anytime anywhere",
+        "Features": "The P-201 is a portable scanner for scanning on the go of important documents just a plug away. It works with USB Power and extremely light weight delivering true balance between portability and functionality.",
+        "Specification": [
+            "Weighing only 550g and measuring only 312.5 x 55.5 x 40mm in size",
+            "Preinstalled scanning utility provides plug-and-scan capabilities",
+            "High Quality Simplex Scanning"
+        ],
+        "Image": "assets/img/docScan/7.png"
+    }
+]
